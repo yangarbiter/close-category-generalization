@@ -2,7 +2,7 @@
 
 This repository contains the code of the experiments in the paper
 
-[Close Category Generalization]()
+[Close Category Generalization](https://arxiv.org/abs/2011.08485)
 
 Authors: [Yao-Yuan Yang](https://github.com/yangarbiter/), [Cyrus Rashtchian](http://www.cyrusrashtchian.com), [Ruslan Salakhutdinov](https://www.cs.cmu.edu/~rsalakhu/), [Kamalika Chaudhuri](http://cseweb.ucsd.edu/~kamalika/)
 
